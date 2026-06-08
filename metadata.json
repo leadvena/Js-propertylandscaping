@@ -1,0 +1,6 @@
+{
+  "name": "JS Property Landscape",
+  "description": "Premium, mobile-first website for JS Property Landscape, Bradford UK. Landscaping, driveways, fencing, and estate maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
